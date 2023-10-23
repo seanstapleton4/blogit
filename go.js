@@ -1,5 +1,4 @@
 const fs = require('fs');
-const DOMParser = require('dom-parser');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
@@ -29,4 +28,10 @@ async function fetchAndExtract(url) {
 const url = 'https://www.nerdfitness.com/blog/';  // Replace with your target URL
 fetchAndExtract(url).then(titles => {
     console.log(titles);
+
+    fs.writeFile('headers.txt', titles.join('\n'), (err) => {
+        if (err) throw err;
+        console.log('The file has been saved!');
+    });
+
 });
