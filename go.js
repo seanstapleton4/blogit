@@ -1,37 +1,42 @@
-const fs = require('fs');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 async function fetchAndExtract(url) {
     try {
-        // Fetch the web page
         const response = await axios.get(url);
         const html = response.data;
 
-        // Load the HTML content into cheerio
         const $ = cheerio.load(html);
 
-        // Extract content of h1 tags with class 'entry-title'
-        const titles = [];
+        const headers = [];
         $('h1.entry-title').each((i, element) => {
-            titles.push($(element).text().trim());
+            if (i < 5) {
+                const titleText = $(element).text().trim();
+                const href = $(element).find('a').attr('href');
+                headers.push({ title: titleText, href: href });
+            }
         });
 
-        return titles;
+        return headers;
     } catch (error) {
         console.error("Error fetching the web page:", error);
         return [];
     }
 }
 
-// Example usage:
-const url = 'https://www.nerdfitness.com/blog/';  // Replace with your target URL
-fetchAndExtract(url).then(titles => {
-    console.log(titles);
+function writeToFile(headers) {
+    const currentDateTime = new Date().toLocaleString();
+    const formattedData = headers.map(header => {
+        return `${currentDateTime}\nTitle: ${header.title}\nURL: ${header.href}\n`;
+    }).join('\n');
 
-    fs.writeFile('headers.txt', titles.join('\n'), (err) => {
-        if (err) throw err;
-        console.log('The file has been saved!');
-    });
+    fs.writeFileSync('headers.txt', formattedData);
+    console.log('Data written to headers.txt');
+}
 
+// run
+const url = 'https://www.nerdfitness.com/blog/';
+fetchAndExtract(url).then(headers => {
+    writeToFile(headers);
 });
