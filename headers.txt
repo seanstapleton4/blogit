@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="preload" href="/wp-content/themes/NerdFitness/library/fonts/KomikaAxisRegular.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" href="/wp-content/themes/NerdFitness/templates/fonts/TisaSansPro-Regular.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="/wp-content/themes/NerdFitness/templates/fonts/TisaSansPro-Bold.woff2" as="font" crossorigin="anonymous">
+<link rel="preload" href="/wp-content/themes/NerdFitness/templates/fonts/TisaSansPro-Italic.woff2" as="font" crossorigin="anonymous">
+<link rel="pingback" href="https://www.nerdfitness.com/xmlrpc.php" />
+
+<title>Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.</title>
+<meta name="description" content="Nerd Fitness: A fitness website for nerds and average Joes. Helping you lose weight, get stronger, live better." />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="keywords" content="nerd,fitness,weight loss,training,health,wellness,barefoot running,build muscle,work out,beginner workout,interval training,gaining weight,how to improve grip strength,how to increase grip strength,grip strength,improve grip strength,grip strength training,increase grip strength,pull ups,inverted body row,body row,inverted bodyweight row,bodyweight row,inverted row,inverted rows,how to do a bodyweight row,how to do an inverted row,strength training at home,resistance training,strength training exercises,workout routines for beginners,weight lifting for beginners,strength training for beginners.,bodyweight workout,bodyweight workout plan,bodyweight workout routine,full body bodyweight workout,bodyweight circuit,body weight circuit,at home workout,no gym workout,advanced bodyweight workout,best bodyweight workout,push-up progression,push-up workout plan,get your first push-up,fun exercise,fun workouts,how to have fun exercising,pull up alternative,pull up alternative no bar,no bar pull up,how to use rowing machine,rowing machine,row machine workout,rowing machine workout,rowing machine benefits,handstand progression,how to do a handstand,how to learn to do a handstand,handstand,handstand training,beginner handstand guide,dynamic warm up,stretching exercises,warm up exercises,how to warm up before lifting,best warm up exercises,warm up before lifting,weightlifting warm up,gym warm up,warm ups,warm up routines,best at home workouts,no equipment workouts,home workouts,hiit workout,,how to build a workout routine,workout plans,workout,workouts,how to build a workout,how to work out,which exercises should i do? how to make a workout schedule,body weight,burn fat,lose weight without cardio,lose weight,build strength,how to bulk up for skinny guys,bulking for skinny guys,workout plan for skinny guys,i’m really skinny and want to build muscle,skinny guy workout plan,how to bulk up fast for skinny guys,i’m skinny and want to gain muscle,bulking for beginners,im skinny and want to build muscle,workout for skinny guys from home,gym workouts,how to start going to the gym,beginner gym workout,what to do at the gym,gym for beginners,how often should i go to the gym?,beginner gym guide,gym weight training,weight training for beginners,how to exercise in a gym" />
+<link rel="canonical" href="https://www.nerdfitness.com/blog/" />
+<link rel="next" href="https://www.nerdfitness.com/blog/page/2/" />
+<meta name="generator" content="All in One SEO (AIOSEO) 4.4.8" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="Nerd Fitness" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better." />
+<meta property="og:description" content="Nerd Fitness: A fitness website for nerds and average Joes. Helping you lose weight, get stronger, live better." />
+<meta property="og:url" content="https://www.nerdfitness.com/blog/" />
+<meta property="og:image" content="https://www.nerdfitness.com/wp-content/uploads/2016/07/nf-logo.png" />
+<meta property="og:image:secure_url" content="https://www.nerdfitness.com/wp-content/uploads/2016/07/nf-logo.png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="500" />
+<meta property="article:published_time" content="2013-04-28T14:46:59+00:00" />
+<meta property="article:modified_time" content="2013-04-28T16:07:41+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better." />
+<meta name="twitter:description" content="Nerd Fitness: A fitness website for nerds and average Joes. Helping you lose weight, get stronger, live better." />
+<meta name="twitter:image" content="https://www.nerdfitness.com/wp-content/uploads/2016/07/nf-logo.png" />
+<meta name="google" content="nositelinkssearchbox" />
+<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.nerdfitness.com\/blog\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.nerdfitness.com\/#listItem","position":1,"name":"Home","item":"https:\/\/www.nerdfitness.com\/","nextItem":"https:\/\/www.nerdfitness.com\/blog\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.nerdfitness.com\/blog\/#listItem","position":2,"name":"Blog","previousItem":"https:\/\/www.nerdfitness.com\/#listItem"}]},{"@type":"CollectionPage","@id":"https:\/\/www.nerdfitness.com\/blog\/#collectionpage","url":"https:\/\/www.nerdfitness.com\/blog\/","name":"Nerd Fitness: Helping You Lose Weight, Get Stronger, Live Better.","description":"Nerd Fitness: A fitness website for nerds and average Joes. Helping you lose weight, get stronger, live better.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.nerdfitness.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.nerdfitness.com\/blog\/#breadcrumblist"}},{"@type":"Organization","@id":"https:\/\/www.nerdfitness.com\/#organization","name":"Nerd Fitness","url":"https:\/\/www.nerdfitness.com\/","logo":{"@type":"ImageObject","url":"https:\/\/www.nerdfitness.com\/wp-content\/uploads\/2016\/07\/nf-logo.png","@id":"https:\/\/www.nerdfitness.com\/blog\/#organizationLogo","width":600,"height":500,"caption":"Nerd Fitness"},"image":{"@id":"https:\/\/www.nerdfitness.com\/#organizationLogo"}},{"@type":"WebSite","@id":"https:\/\/www.nerdfitness.com\/#website","url":"https:\/\/www.nerdfitness.com\/","name":"Nerd Fitness","description":"Level up your life, every single day.","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.nerdfitness.com\/#organization"}}]}
+		</script>
+
+
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead = 1;
+	const gtm4wp_id_prefix = '';
+	const gtm4wp_remarketing = false;
+	const gtm4wp_eec = true;
+	const gtm4wp_classicec = false;
+	const gtm4wp_currency = 'USD';
+	const gtm4wp_product_per_impression = false;
+	const gtm4wp_needs_shipping_address = false;
+	const gtm4wp_business_vertical = 'retail';
+	const gtm4wp_business_vertical_id = 'id';
+</script>
+
+
+<style>
+  .async-hide {
+	  opacity: 0 !important
+  }
+</style>
+<script>
+(function(a,s,y,n,c,h,i,d,e) {
+	s.className+=' '+y;
+	h.start=1*new Date;
+	h.end=i=function() {
+		s.className=s.className.replace(RegExp(' ?'+y),'')
+	};
+	(a[n]=a[n]||[]).hide=h;
+	setTimeout(function() {
+		i();
+		h.end=null
+	},c);
+	h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',5000,{"GTM-PM6M457":true});
+</script>
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="dns-prefetch" href="//kit.fontawesome.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<style type="text/css">.woocommerce .product .variations option:disabled { display: none; } </style><link rel="stylesheet" id="wc-blocks-vendors-style-css" href="https://www.nerdfitness.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.0.6" type="text/css" media="all" />
+<link rel="stylesheet" id="wc-blocks-style-css" href="https://www.nerdfitness.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.0.6" type="text/css" media="all" />
+<link rel="stylesheet" id="wc-memberships-blocks-css" href="https://www.nerdfitness.com/wp-content/plugins/woocommerce-memberships/assets/css/blocks/wc-memberships-blocks.min.css?ver=1.24.0" type="text/css" media="all" />
+<link rel="stylesheet" id="convertkit-broadcasts-css" href="https://www.nerdfitness.com/wp-content/plugins/convertkit/resources/frontend/css/broadcasts.css?ver=1.9.7.7" type="text/css" media="all" />
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://www.nerdfitness.com/wp-includes/css/classic-themes.min.css?ver=1" type="text/css" media="all" />
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="ajax-load-more-css" href="https://www.nerdfitness.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="cpsh-shortcodes-css" href="https://www.nerdfitness.com/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0.1" type="text/css" media="all" />
+<link rel="stylesheet" id="sp-ea-font-awesome-css" href="https://www.nerdfitness.com/wp-content/plugins/easy-accordion-pro/public/assets/css/font-awesome.min.css?ver=2.0.10" type="text/css" media="all" />
+<link rel="stylesheet" id="sp-ea-style-css" href="https://www.nerdfitness.com/wp-content/plugins/easy-accordion-pro/public/assets/css/ea-style.min.css?ver=2.0.10" type="text/css" media="all" />
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="106a6c241-css" href="https://www.nerdfitness.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1698015353" type="text/css" media="all" />
+<link rel="stylesheet" id="gpd-bootstrap-css" href="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/css/bootstrap-5.0.2.min.css?ver=5.0.2" type="text/css" media="all" />
+<link rel="stylesheet" id="nf-gpd-homepage-css" href="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/css/homepage.css?ver=1641367640" type="text/css" media="all" />
+<link rel="stylesheet" id="nf-css-css" href="https://www.nerdfitness.com/wp-content/themes/NerdFitness/style.css?ver=1641367640" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-icons-css" href="https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0" type="text/css" media="all" />
+<style id="elementor-icons-inline-css" type="text/css">
+
+		.elementor-add-new-section .elementor-add-templately-promo-button{
+            background-color: #5d4fff;
+            background-image: url(https://www.nerdfitness.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+            background-repeat: no-repeat;
+            background-position: center center;
+            margin-left: 5px;
+            position: relative;
+            bottom: 5px;
+        }
+</style>
+<link rel="stylesheet" id="elementor-frontend-css" href="https://www.nerdfitness.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.7" type="text/css" media="all" />
+<style id="elementor-frontend-inline-css" type="text/css">
+@font-face{font-family:eicons;src:url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel="stylesheet" id="elementor-post-3897338-css" href="https://www.nerdfitness.com/wp-content/uploads/elementor/css/post-3897338.css?ver=1680713432" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-pro-css" href="https://www.nerdfitness.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.4.2" type="text/css" media="all" />
+<link rel="stylesheet" id="font-awesome-5-all-css" href="https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.9.5" type="text/css" media="all" />
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.9.5" type="text/css" media="all" />
+<link rel="stylesheet" id="elementor-global-css" href="https://www.nerdfitness.com/wp-content/uploads/elementor/css/global.css?ver=1680713432" type="text/css" media="all" />
+<link rel="stylesheet" id="aurora-heatmap-css" href="https://www.nerdfitness.com/wp-content/plugins/aurora-heatmap/style.css?ver=1.5.6" type="text/css" media="all" />
+<style id="SP_EAP-google-web-fonts-sp_eap_shortcode_options-css" media="all">@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf) format('truetype');
+}
+</style>
+<style id="google-fonts-1-css" media="all">@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 100;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4P3-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPz-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cvvz-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c4Pz-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 500;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6c0vz-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cPvv-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cB_v-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 800;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cYPv-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxjHiqOu8IVPmn7epZnDMyKBvHf5D6cSfv-X3B3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbfOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 500;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8cTfOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8SjYOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 800;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8XbYOLjOWA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/bitter/v33/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8V_YOLjOWA.ttf) format('truetype');
+}
+</style>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-woocommerce-enhanced.js?ver=1.18.1" id="gtm4wp-woocommerce-enhanced-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.9.5" id="font-awesome-4-shim-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/aurora-heatmap/js/mobile-detect.min.js?ver=1.4.5" id="mobile-detect-js"></script>
+<script type="text/javascript" id="aurora-heatmap-reporter-js-extra">
+/* <![CDATA[ */
+var aurora_heatmap_reporter = {"ajax_url":"https:\/\/www.nerdfitness.com\/wp-admin\/admin-ajax.php","action":"aurora_heatmap","interval":"10","stacks":"10","reports":"click_pc,click_mobile","debug":"0","ajax_delay_time":"3000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/aurora-heatmap/js/reporter.js?ver=1.5.6" id="aurora-heatmap-reporter-js"></script>
+<link rel="https://api.w.org/" href="https://www.nerdfitness.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nerdfitness.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.nerdfitness.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.4" />
+<meta name="generator" content="WooCommerce 7.7.2" />
+<script type="text/javascript">document.documentElement.className += " js";</script>
+<a class="nf-header-bar-countdown-link" target="_blank;" href="https://www.nerdfitness.com/emotional-eating-workshop-with-nerd-fitness/?utm_source=webinar&utm_medium=website&utm_term=&utm_content=&utm_campaign=emotional-eating-10-26-23">
+<div class="nf-countdown-bar">
+<span id="message">
+Tired of stress eating? Then join our FREE workshop on Oct 26th! <div class="countdown-button"><a target="_blank;" href="https://www.nerdfitness.com/emotional-eating-workshop-with-nerd-fitness/?utm_source=webinar&utm_medium=website&utm_term=&utm_content=&utm_campaign=emotional-eating-10-26-23">Get the details</a> </div>
+</span>
+
+</div>
+</a>
+
+
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"siteID":"1","siteName":"Nerd Fitness","visitorLoginState":"logged-out","pagePostType":"bloghome"};
+	dataLayer.push( dataLayer_content );
+</script>
+
+<script src="https://www.googleoptimize.com/optimize.js?id=GTM-PM6M457" onerror="dataLayer.hide.end &amp;&amp; dataLayer.hide.end()"></script>
+
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WQ6J9X');
+</script>
+
+ <style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 0ms;
+					transition-delay: 0ms;
+				}
+					</style>
+<script type="text/javascript">
+	var ajaxurl = "https://www.nerdfitness.com/wp-admin/admin-ajax.php";
+	</script> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1015248816544931');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+
+ data-src="" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1015248816544931&ev=PageView&noscript=1"
+/></noscript></noscript>
+
+
+
+
+</head>
+<body class="blog theme-NerdFitness woocommerce-no-js elementor-default elementor-kit-3897338">
+<aside id="drawer" class="min-height-90px drawer d-xl-none d-flex flex-column justify-content-center align-items-center">
+<div class="bg-black container-fluid py-3 h-100">
+<ul class="d-flex flex-column align-items-center mb-0">
+<li class="p-3 2 w-100">
+<a href="/free-articles-v2/" class="text-18 link">Free Articles</a>
+</li>
+<li class="p-3 2 w-100">
+<a href="/about-2/" class="text-18 link">About Us</a>
+</li>
+<li class="p-3 2 w-100">
+<a href="/login/" class="text-18 link mx-4">Member Login</a>
+</li>
+</ul>
+<a href="/coaching-overview-page/" class="link-button py-2 px-3 d-xl-block ff-tr d-inline-block m-3">Find Your Coach</a>
+</div>
+</aside>
+<header id="header" class="min-height-90px d-flex align-items-center bg-black">
+<div class="container">
+<div class="row">
+<div class="w-100 d-flex align-items-center justify-content-between">
+<a href="/">
+<img data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" class="logo-sizing lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" class="logo-sizing lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="logo-sizing" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" /></noscript></noscript>
+</a>
+<nav class="d-xl-flex d-none align-items-center justify-content-center flex-grow-1">
+<li>
+<a href="/free-articles-v2/" class="text-18 link mx-4">Free Articles</a>
+</li>
+<li>
+<a href="/about-2/" class="text-18 link mx-4">About Us</a>
+</li>
+<li>
+<a href="/login/" class="text-18 link mx-4">Member Login</a>
+</li>
+</nav>
+<a href="/coaching-overview-page/" class="link-button py-2 px-3 d-none d-xl-block ff-tr">Find Your Coach</a>
+<span id="open-drawer" class="d-xl-none drawer-button">
+<span></span>
+</span>
+</div>
+</div>
+</div>
+<div class="header-circle"></div>
+</header>
+<article class="container">
+<div class="main">
+<div id="primary" class="site-content">
+<div id="content" role="main">
+<div class="content_column">
+<article id="post-1846079" class="post-1846079 post type-post status-publish format-standard hentry category-general wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/how-to-improve-your-wrist-mobility-and-grip-strength/" title="Permalink to How to Improve Your Grip Strength &#038; Wrist Mobility:  The 6 Best Exercises" rel="bookmark">How to Improve Your Grip Strength &#038; Wrist Mobility: The 6 Best Exercises</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Jim Bathurst" data-src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Jim Bathurst" data-src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" alt="Jim Bathurst"></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Jim-Bathurst/"><span class="vcard author author_name"><span class="fn">Jim Bathurst CSCS </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" alt="Improve your grip strength and wrist mobility with barbells" width="713" height="375" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-713x375.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-300x158.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-768x404.png 768w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-600x316.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1.png 905w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-713x375.png" class="aligncenter size-large wp-image-3578378 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" class="aligncenter size-large wp-image-3578378" src="https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-713x375.png" alt="Improve your grip strength and wrist mobility with barbells" width="713" height="375" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-713x375.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-300x158.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-768x404.png 768w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1-600x316.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/06/improve-grip-strength-with-barbells-1.png 905w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><strong>Do you find your grip a limiting factor in the gym (I see you <a href="https://www.nerdfitness.com/blog/do-a-pull-up/" target="_blank" rel="noopener noreferrer">chin-ups</a> and <a href="https://www.nerdfitness.com/blog/strength-training-101-the-deadlift/" target="_blank" rel="noopener noreferrer">deadlifts</a>)?</strong></p>
+<p><strong>Or in everyday life (looking at you, pickle jars)?</strong></p>
+<p>If so, don’t worry! We’ve got a handle on this (pun 100% intended).</p>
+<p><strong>As the lead trainer of our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">1-on-1 Online Coaching Program</a>,</strong> I&#8217;m going to outline a number of helpful, handy (sigh) stretches and exercises to help eliminate pain and build you some powerful, useful hands and a strong grip.</p>
+<ul>
+<li><a href="#grip_strength_basics">The importance of grip strength (and basic &#8220;grips&#8221;).</a></li>
+<li><a href="#improve_grip_strength_at_gym">Grip strength exercises to do in the gym (VIDEO).</a></li>
+<li><a href="#improve_grip_strength_at_office">How to improve grip strength at the office.</a></li>
+<li><a href="#improve_grip_strength_at_home">How to improve grip strength at home.</a></li>
+</ul>
+<p><strong>Now, it goes without saying that the hands and forearms are anatomically complicated areas.</strong></p>
+<p>I am also not your mother, or your doctor. If anything in the article below causes pain, or your pain is not alleviated by these stretches &#8211; call in the pros!</p>
+<p><em>See a physical therapist or sports massage practitioner.</em></p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/how-to-improve-your-wrist-mobility-and-grip-strength/#more-1846079" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3667" class="post-3667 post type-post status-publish format-standard hentry category-exercises category-how-to tag-gym tag-strength tag-training wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/" title="Permalink to How to Do a Bodyweight Row or Inverted Row" rel="bookmark">How to Do a Bodyweight Row or Inverted Row</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="The inverted bodyweight row is a great way to grow your strength training practice. " width="713" height="399" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-300x168.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-600x336.jpg 600w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-713x399.jpg" class="aligncenter wp-image-3578067 size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3578067 size-large" src="https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-713x399.jpg" alt="The inverted bodyweight row is a great way to grow your strength training practice. " width="713" height="399" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-300x168.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/staci-doing-row-600x336.jpg 600w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><strong>The Inverted Bodyweight Row is one of the BEST, simple, most effective exercises you can do for your “pull” muscles.</strong></p>
+<p><span style="font-weight: 400;">If you’re trying to get to your first pull-up (or even if you are already doing pull-ups), it&#8217;s a must. </span></p>
+<p><strong>That&#8217;s why we program them in when designing workouts for our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients.</a></strong></p>
+<p>Today, I&#8217;ll explain exactly why (almost like you were in our program).</p>
+<a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+A custom workout routine designed for your goals. Learn more: </button>
+</a>
+<p><strong>As part of our <a href="https://www.nerdfitness.com/blog/strength-training-101/" target="_blank" rel="noopener noreferrer">Strength 101 series</a>, this guide will cover everything you need to know about this awesome exercise:</strong></p>
+<ul>
+<li><a href="#inverted_row">What is an inverted row or bodyweight row?</a></li>
+<li><a href="#how_to_do_inverted_row">How to do an inverted bodyweight row properly (with video).</a></li>
+<li><a href="#progress_rows">How to progress with inverted bodyweight rows (6 variations)</a></li>
+<li><a href="#inverted_row_workout">When should I do inverted rows in my workout?</a></li>
+<li><a href="#table">How to do bodyweight rows at home with your kitchen table.</a></li>
+</ul>
+<p>Let&#8217;s do this thing!</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/inverted-row-are-you-missing-out-on-this-great-exercise/#more-3667" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-21263" class="post-21263 post type-post status-publish format-standard hentry category-bestof category-strength-and-muscle category-weightloss tag-best-fitness wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/strength-training-101-where-do-i-start/" title="Permalink to 5 Best Strength Training Workout Routines For Beginners (Home &amp; Gym)" rel="bookmark">5 Best Strength Training Workout Routines For Beginners (Home &amp; Gym)</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Staci Ardison" data-src="https://secure.gravatar.com/avatar/37ff9074fd21364ca6a12c8c36fe08f3?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/37ff9074fd21364ca6a12c8c36fe08f3?s=96&d=identicon&r=pg" alt="Staci Ardison"></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Staci/"><span class="vcard author author_name"><span class="fn">Staci Ardison </span></span></a><span class="updated">
+&#8226 Reviewed By:
+<a href="https://www.nerdfitness.com/blog/author/mikerebold/">Mike Rebold PhD, CSCS </a>
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="These LEGOs are working the bench and doing some deadlifts. Nerd Fitness approves." width="798" height="353" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-300x133.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-768x340.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-713x316.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-600x266.jpg 600w" sizes="(max-width: 798px) 100vw, 798px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing.jpg" class="aligncenter wp-image-3643170 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3643170" src="https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing.jpg" alt="These LEGOs are working the bench and doing some deadlifts. Nerd Fitness approves." width="798" height="353" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-300x133.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-768x340.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-713x316.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/01/legos-bench-pressing-600x266.jpg 600w" sizes="(max-width: 798px) 100vw, 798px" /></noscript></p>
+<p style="text-align: left;"><strong>Want to get strong like these LEGO lifters but don&#8217;t how to start?</strong></p>
+<p><span style="font-weight: 400;">In this <em>Beginner&#8217;s Guide to Strength Training</em> (part of our <a href="https://www.nerdfitness.com/blog/strength-training-101/" target="_blank" rel="noopener noreferrer">Strength 101 series</a>), you’ll have both the confidence to start getting strong with resistance training AND a plan to follow.</span></p>
+<p><b>These are the exact strategies we use with our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients</a> to help them start strength training, and I’m excited to cover everything you need.</b></p>
+<p style="text-align: center;"> <a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button red">
+Let us help you start strength training! Learn more: </button>
+</a>
+</p>
+<p><b>We’ll be digging into the following:</b></p>
+<ul>
+<li style="font-weight: 400;"><a href="#start_strength_training"><span style="font-weight: 400;">How do I start strength training or resistance training?</span></a></li>
+<li><a href="#examples_strength_training">What are some examples of strength training?</a></li>
+<li style="font-weight: 400;"><a href="#strength_training_for_me"><span style="font-weight: 400;">Which strength training program is right for me?</span></a></li>
+<li style="font-weight: 400;"><a href="#best_strength_training"><span style="font-weight: 400;">5 best strength training workouts for beginners.</span></a></li>
+<li style="font-weight: 400;"><a href="#how_much_should_i_lift"><span style="font-weight: 400;">How much weight should I lift?</span></a></li>
+<li style="font-weight: 400;"><a href="#9_strength_training_exercises"><span style="font-weight: 400;">The 9 best strength training exercises.</span></a></li>
+<li><a href="#strength_training_form_checks">How to know you&#8217;re doing an exercise properly (form checks)</a></li>
+<li style="font-weight: 400;"><a href="#strength_training_weight_loss"><span style="font-weight: 400;">Strength training for weight loss.</span></a></li>
+<li style="font-weight: 400;"><a href="#strength_training_do_this"><span style="font-weight: 400;">“Just TELL ME what strength program I should do.”</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">By the way, we’ve combined this article along with the rest of our strength articles into a “<strong>Strength Training 101: Everything You Need to Know</strong>” guide. </span></p>
+<p><span style="font-weight: 400;">Grab it free when you join the Rebellion by putting your email in the box below.</span></p>
+<div class="nf-in-post-signup-leadin"></div><div class="nf-in-post-signup one-column split yellow-cta strength-101 shortcode-form-13 "><div class="nf-signup-intro"><div><span style="font-weight:700"><span class="pre">Download our comprehensive guide</span> <span class="extra">STRENGTH TRAINING 101!</span></span></div><div class="nf-signup-benefit"><ul>
+<li>Everything you need to know about getting strong.</li>
+<li>Workout routines for bodyweight AND weight training.</li>
+<li>How to find the right gym and train properly in one.</li>
+</ul></div></div><div class="nf-signup-form"><img class="asset-image" src><div><form accept-charset="UTF-8" action="https://app.convertkit.com/forms/3351751/subscriptions" data-sv-form="3351751" data-uid="7a45ac8ba2" data-version="5" class="infusion-form" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;redirect&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;https://www.nerdfitness.com/one-last-step/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" method="POST" id="inf_form_12c97c001a652ac813119a536e4fb4a4"><ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul><input name="inf_form_xid" type="hidden" value="12c97c001a652ac813119a536e4fb4a4" /><input name="inf_form_name" type="hidden" value="Plugin Signup" /><input name="infusionsoft_version" type="hidden" value="1.68.0.144" /><input class="infusion-field-input-container" id="inf_field_Email" name="email_address" type="email" required placeholder="Your Email" /><input name="null" type="hidden" value="null" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SiteSignupURL" name="fields[signup_referring_url]" type="text" value="https://www.nerdfitness.com/blog/" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SignupPostID" name="fields[signup_post_id]" type="text" value="21263" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_FormId" name="fields[signup_form_id]" type="text" value="13" /> <input name="inf_custom_CoachingOriginURL" type="hidden" value="https://www.nerdfitness.com/" />
+<input name="inf_custom_CoachingOriginLandingPage" type="hidden" value="https://www.nerdfitness.com/blog/how-to-train-like-a-secret-agent-the-lives-of-james-bond-and-jason-bourne/" />
+<input name="inf_custom_IPAddress" type="hidden" value="243.234.109.190" />
+<input name="inf_custom_CookieLastMedium" type="hidden" value />
+<input name="inf_custom_CookieLastCampaign" type="hidden" value />
+<input name="inf_custom_CookieLastSource" type="hidden" value />
+<input name="inf_custom_CookieLastTerm" type="hidden" value />
+<input name="inf_custom_CookieLastContent" type="hidden" value />
+<input name="inf_custom_CoachingOptinFormFilledDate" type="hidden" value="2023-10-22 22:55:53">
+<input name="inf_custom_infcustomcoachvariation" type="hidden" value>
+<input name="inf_custom_FacebookBrowserId" type="hidden" value="fb.1.1698015082383.1051159166" />
+<input name="inf_custom_FacebookClickId" type="hidden" value />
+<div class="infusion-submit"> <input class="opt-in-submit button infusion-recaptcha" id="recaptcha_12c97c001a652ac813119a536e4fb4a4" type="submit" value=" Get it now" /></div></form></div></div><div class="clearme"></div></div>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/strength-training-101-where-do-i-start/#more-21263" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3990" class="post-3990 post type-post status-publish format-standard hentry category-bestof category-workouts tag-advanced tag-lean-muscle tag-self-help tag-strength tag-training wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/advanced-body-weight-workout-warning-this-will-kick-your-ass/" title="Permalink to Advanced Bodyweight Workout Circuit: A Full Body Routine You Can Do At Home" rel="bookmark">Advanced Bodyweight Workout Circuit: A Full Body Routine You Can Do At Home</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Once you get good at advanced bodyweight exercises, you can bust out moves like this!" width="704" height="343" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup.jpg 704w, https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup-300x146.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup-600x292.jpg 600w" sizes="(max-width: 704px) 100vw, 704px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup.jpg" class="aligncenter wp-image-3594931 size-full lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3594931 size-full" src="https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup.jpg" alt="Once you get good at advanced bodyweight exercises, you can bust out moves like this!" width="704" height="343" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup.jpg 704w, https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup-300x146.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/05/lego-bodyweight-pushup-600x292.jpg 600w" sizes="(max-width: 704px) 100vw, 704px" /></noscript></p>
+<p><b>Want to get strong but hate the gym?</b></p>
+<p>No problem!</p>
+<p><span style="font-weight: 400;">With today’s <span style="text-decoration: underline;">Advanced Bodyweight Routine</span>, you can burn fat, build muscle, and get a great workout in! All with no gym membership required!</span></p>
+<p><strong>It&#8217;s the kind of workout we build through our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">online coaching program</a>. If you’re in a hurry, sign up for our free weekly newsletter and we’ll send you PDFs of our “Work Out at Home” guides!</strong></p>
+<p><b> <a target="_blank" href="https://www.nerdfitness.com/at-home-newsletter/">
+<button class="cta-button red">
+Download our Free Home Workout Guides! </button>
+</a>
+</b></p>
+<p><b>If you&#8217;re ready, click the sections below to get right into the action:</b></p>
+<ul>
+<li><a href="#advanced_bodyweight_video"><b>Advanced Bodyweight Workout Video</b></a></li>
+<li><a href="#bodyweight_exercises"><b>21 Best Advanced Bodyweight Exercises</b></a></li>
+<li><a href="#scale_bodyweight_routine"><b>How to scale your bodyweight workout</b></a></li>
+<li><a href="#get_started_with_bodyweight"><b>What’s next after the Advanced Bodyweight Workout?</b></a></li>
+</ul>
+<p>Alright, let&#8217;s do this thang.</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/advanced-body-weight-workout-warning-this-will-kick-your-ass/#more-3990" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3919504" class="post-3919504 post type-post status-publish format-standard hentry category-general wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/push-up-progression-plan/" title="Permalink to The Push-up Progression Plan (Get Your First Push-up!)" rel="bookmark">The Push-up Progression Plan (Get Your First Push-up!)</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Jim Bathurst" data-src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Jim Bathurst" data-src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/23dccab1a1044ce59130b030f8879fae?s=96&d=identicon&r=pg" alt="Jim Bathurst"></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Jim-Bathurst/"><span class="vcard author author_name"><span class="fn">Jim Bathurst CSCS </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="A gecko doing a push-up" width="799" height="344" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up.jpg 799w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-300x129.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-713x307.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-768x331.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-600x258.jpg 600w" sizes="(max-width: 799px) 100vw, 799px" data-src="https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up.jpg" class="aligncenter size-full wp-image-3919868 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3919868" src="https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up.jpg" alt="A gecko doing a push-up" width="799" height="344" srcset="https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up.jpg 799w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-300x129.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-713x307.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-768x331.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/06/gecko-push-up-600x258.jpg 600w" sizes="(max-width: 799px) 100vw, 799px" /></noscript></p>
+<p><b>Today I’m going to help you achieve your first push-up!</b></p>
+<p><span style="font-weight: 400;">Yep, I know that sounds super confident. </span></p>
+<p><strong>But it’s because I have a <span style="text-decoration: underline;">push-up progression plan</span> that’s helped loads of clients in our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener">Online Coaching Program</a> <em>crush</em> their first push-up. </strong></p>
+<p><span style="font-weight: 400;"> <a target="_blank" href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button red">
+We help people get their first push-up and we're really good at it. Learn more: </button>
+</a>
+</span></p>
+<p><span style="text-decoration: underline;">Here’s what we’ll cover</span>:</p>
+<ul>
+<li><a href="#best-push-up-progression-plan"><span style="font-weight: 400;">What’s the best push-up progression plan?</span></a></li>
+<li><a href="#4-push-up-variations">4 push-up variations (to progress to a full push-up).</a></li>
+<li><a href="#proper-push-up-form">What is the proper form for a push-up?</a></li>
+<li><a href="#exercises-for-push-ups">2 &#8220;must-do&#8221; exercises for achieving a full push-up.</a></li>
+<li><a href="#push-up-workout-plan">The &#8220;Get Your First Push-up&#8221; Workout Plan.</a></li>
+<li><a href="#first-push-up">Getting your first push-up (Next Steps).</a></li>
+</ul>
+<p>Follow our guide and you&#8217;ll be doing &#8220;Earth Downs&#8221; in no time:</p>
+<p><img decoding="async" loading="lazy" alt="Text that says &quot;Push-ups? You mean Earth Downs?&quot;" width="300" height="300" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down.jpg 1024w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-300x300.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-601x600.jpg 601w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-150x150.jpg 150w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-768x767.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-600x599.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" data-src="https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down.jpg" class="aligncenter wp-image-3919532 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3919532" src="https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down.jpg" alt="Text that says &quot;Push-ups? You mean Earth Downs?&quot;" width="300" height="300" srcset="https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down.jpg 1024w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-300x300.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-601x600.jpg 601w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-150x150.jpg 150w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-768x767.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-600x599.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2021/06/earth-down-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></p>
+<p><strong>Let&#8217;s get started.</strong></p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/push-up-progression-plan/#more-3919504" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-20068" class="post-20068 post type-post status-publish format-standard hentry category-community category-fun-exercise category-updates tag-best-mindset wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/25-ways-to-exercise-without-realizing-it/" title="Permalink to 40 Fun Ways to Exercise (Without Realizing It)" rel="bookmark">40 Fun Ways to Exercise (Without Realizing It)</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Have fun while exercising!" width="713" height="401" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-713x401.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-300x169.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-768x432.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-600x338.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego.jpg 1024w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-713x401.jpg" class="aligncenter wp-image-3518940 size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3518940 size-large" src="https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-713x401.jpg" alt="Have fun while exercising!" width="713" height="401" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-713x401.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-300x169.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-768x432.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego-600x338.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2019/02/Fancy_man_lego.jpg 1024w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><strong>I know plenty of people who hate exercise but WANT to find a way to like it.</strong></p>
+<p>And that&#8217;s what today&#8217;s post is all about:</p>
+<p>Exercising in a way where life doesn&#8217;t suck AND helps you reach your goals.</p>
+<p><strong>Luckily, this is exactly what we do for a living!</strong></p>
+<ul>
+<li><a href="#fun_exercise_benefits">&#8220;Exercise&#8221; sucks! Do this instead:</a></li>
+<li><a href="#fun_exercise_40_ways_to_exercise">40 ways to exercise without realizing it.</a></li>
+<li><a href="#fun_exercise_next_steps">Next steps, and my personal challenge to you:</a></li>
+</ul>
+<p><b>I know what it’s like to hate exercise, and ALSO want to lose weight and see results. Ugh. </b></p>
+<p><span style="font-weight: 400;">We’ve built an entire company and community around helping people overcome these obstacles &#8211; our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Program</a> helps people find exercises they love, and also how to make the right nutritional choices. </span></p>
+<p><strong>We are all on a unique journey and we&#8217;d love to help you with yours!</strong></p>
+<p style="text-align: center;"> <a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+Exercise doesn’t have to suck. Let our coaches help you level up your life! </button>
+</a>
+</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/25-ways-to-exercise-without-realizing-it/#more-20068" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3841278" class="post-3841278 post type-post status-publish format-standard hentry category-general category-strength-and-muscle category-workouts wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/pull-up-alternatives/" title="Permalink to The 5 Best Pull-up Alternatives (How to Do Pull-ups Without a Bar)" rel="bookmark">The 5 Best Pull-up Alternatives (How to Do Pull-ups Without a Bar)</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="A picture of Kermit hanging with Pink Panther, probably trying a pull-up alternative." width="727" height="333" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging.jpg 727w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-300x137.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-713x327.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-610x279.jpg 610w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-600x275.jpg 600w" sizes="(max-width: 727px) 100vw, 727px" data-src="https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging.jpg" class="aligncenter size-full wp-image-3841296 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3841296" src="https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging.jpg" alt="A picture of Kermit hanging with Pink Panther, probably trying a pull-up alternative." width="727" height="333" srcset="https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging.jpg 727w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-300x137.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-713x327.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-610x279.jpg 610w, https://www.nerdfitness.com/wp-content/uploads/2020/08/kermit-pink-panther-hanging-600x275.jpg 600w" sizes="(max-width: 727px) 100vw, 727px" /></noscript></p>
+<p><b>So you want to do a pull-up but don’t have a bar?</b></p>
+<p><span style="font-weight: 400;">Or maybe you just don’t quite have the strength yet to hoist yourself up?</span></p>
+<p><span style="font-weight: 400;">Either way, no problem!</span></p>
+<p><b>We’ve been teaching people how to do pull-up alternatives in our </b><a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer"><b>Online Coaching Program</b></a><b> with &#8220;no-bar pull-ups.&#8221;</b> Today, we’ll show you all these tried and trusted workarounds.</p>
+<p><span style="text-decoration: underline;">Here’s what we’ll cover</span>:</p>
+<ul>
+<li style="font-weight: 400;"><a href="#pull-up-alternatives"><span style="font-weight: 400;">How to do pull-ups without a bar (5 pull-up alternatives)</span></a></li>
+<li style="font-weight: 400;"><a href="#first-pull-up"><span style="font-weight: 400;">The 6 best pull-up alternative exercises (How to get your first pull-up)</span></a></li>
+<li style="font-weight: 400;"><a href="#easiest-pull-up"><span style="font-weight: 400;">What is the easiest type of pull-up? (Start with chin-ups)</span></a></li>
+<li style="font-weight: 400;"><a href="#do-pull-up"><span style="font-weight: 400;">When should I do my pull-up alternatives? (Next steps)</span></a></li>
+</ul>
+<p><span style="font-weight: 400;"><strong>By the way, all of these pull-up alternatives can be done in <span style="text-decoration: underline;">our sweet new app</span>.</strong> Why not learn how to lift yourself up (even without any equipment) while you build your very own superhero?</span></p>
+<p><strong>You can test drive it for free (no credit card needed) right here:</strong></p>
+<p style="text-align: left;"><div class="nf-in-post-signup-leadin"></div> <div class="nf-in-post-signup" style="background: none; border: none;">
+<a target="_blank" href="https://click.nerdfitness.com/8BxQ/a0e2674e">
+<img style="margin-left:auto; margin-right: auto;" data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg" class="desktop-show mobile-hide lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  style="margin-left:auto; margin-right: auto;"  data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg" class="desktop-show mobile-hide lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="desktop-show mobile-hide" style="margin-left:auto; margin-right: auto;" src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg"></noscript></noscript>
+<img data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg" class="desktop-hide mobile-show lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg" class="desktop-hide mobile-show lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="desktop-hide mobile-show" src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg"></noscript></noscript>
+</a>
+</div>
+</p>
+<p><span style="font-weight: 400;">Alright, let’s do this thang.</span></p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/pull-up-alternatives/#more-3841278" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3947460" class="post-3947460 post type-post status-publish format-standard hentry category-general wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/how-to-use-a-rowing-machine/" title="Permalink to How to Use a Rowing Machine (Beginner’s Workout)" rel="bookmark">How to Use a Rowing Machine (Beginner’s Workout)</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-18">October 18, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Man using row machine" width="806" height="364" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-scaled.jpg 7359w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-300x136.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-713x322.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-768x347.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-1536x694.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-2048x926.jpg 2048w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-600x271.jpg 600w" sizes="(max-width: 806px) 100vw, 806px" data-src="https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-scaled.jpg" class="aligncenter wp-image-3947792 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3947792" src="https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-scaled.jpg" alt="Man using row machine" width="806" height="364" srcset="https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-scaled.jpg 7359w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-300x136.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-713x322.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-768x347.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-1536x694.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-2048x926.jpg 2048w, https://www.nerdfitness.com/wp-content/uploads/2021/11/man-with-row-machine-600x271.jpg 600w" sizes="(max-width: 806px) 100vw, 806px" /></noscript></p>
+<p><b>The rowing machine &#8211; it’s so hot right now.</b></p>
+<p>Rowing classes are everywhere. It’s easy to find professional and Olympic athletes hyping up the machine’s ability to provide a full-body workout.</p>
+<p>All fine and good&#8230;but how do you actually use the thing?</p>
+<p>Well, my friend, you’ve come to the right place to find out.</p>
+<p><b>Many clients in our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener">Online Coaching Program</a> tell us they want to start rowing, but they don’t know how. Today, we’ll explain how we get them going with row machine workouts.</b></p>
+<a target="_blank" href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+Our Coaches simplify workouts and nutrition. Learn more here. </button>
+</a>
+<p><b>Here’s what we’ll cover:</b></p>
+<ul>
+<li aria-level="1"><a href="#how_to_use_a_rowing_machine">How to use a rowing machine (with video tutorial).</a></li>
+<li aria-level="1"><a href="#what_are_the_benefits_of_using_a_rowing_machine">What are the benefits of using a rowing machine?</a></li>
+<li aria-level="1"><a href="#rowing_machine_101">Rowing Machine 101: Terms to Know</a></li>
+<li aria-level="1"><a href="#the_four_parts_of_the_rowing_stroke">The four parts of the rowing stroke.</a></li>
+<li aria-level="1"><a href="#when_to_add_the_rowing_machine_to_your_workout">When to add the rowing machine to your workout.</a></li>
+<li aria-level="1"><a href="#should_a_beginner_use_a_rowing_machine">Should a beginner use a rowing machine? (Next Steps)</a></li>
+</ul>
+<p><i>Alright, you ready?</i></p>
+<p>Let’s row, row, row your rower.</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/how-to-use-a-rowing-machine/#more-3947460" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-1342745" class="post-1342745 post type-post status-publish format-standard hentry category-exercises category-how-to category-strength-and-muscle wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/" title="Permalink to How to Do a Handstand: Get Your First Handstand in 30 Days" rel="bookmark">How to Do a Handstand: Get Your First Handstand in 30 Days</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Today we teach you how to do a handstand!" width="1920" height="519" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-300x81.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-768x208.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-713x193.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-600x162.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" data-src="https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape.jpg" class="aligncenter size-full wp-image-3616371 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3616371" src="https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape.jpg" alt="Today we teach you how to do a handstand!" width="1920" height="519" srcset="https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-300x81.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-768x208.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-713x193.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2018/08/handstand-landscape-600x162.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript></p>
+<p><b>A</b><b> handstand is one of the coolest exercises ever, but it’s also one of the most advanced moves to learn.</b></p>
+<p><span style="font-weight: 400;">Fortunately, you’ve come to the right place.</span></p>
+<p>Today <span style="font-weight: 400;">you start your journey to the Upside-Down!</span></p>
+<p><img decoding="async" loading="lazy" alt="We'll start your journey to the Upside-Down with Handstands today!" width="480" height="241" data-src="https://www.nerdfitness.com/wp-content/uploads/2018/08/stranger-things.gif" class="aligncenter size-full wp-image-3616337 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3616337" src="https://www.nerdfitness.com/wp-content/uploads/2018/08/stranger-things.gif" alt="We'll start your journey to the Upside-Down with Handstands today!" width="480" height="241" /></noscript></p>
+<p><span style="font-weight: 400;">Ah, not that Upside-Down&#8230;we’ll keep you in this dimension.</span></p>
+<p><b>We’ve helped many of <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">our coaching clients</a> achieve their first handstand and today we’ll share with you how it’s done with this guide!</b></p>
+<p style="text-align: center;"><span style="font-weight: 400;"> <a target href="/coaching-overview-page">
+<button class="cta-button yellow">
+Have your Nerd Fitness Coach help you get your first handstand, step-by-step! Learn more here. </button>
+</a>
+</span></p>
+<p><span style="font-weight: 400;">We’ll treat it like a video game, progressing you from complete noob to Level 6: Handstand Master. </span></p>
+<p><b>We’ll go over the following (click to flip to that section):</b></p>
+<ul>
+<li style="font-weight: 400;"><a href="#benefits_of_handstand"><span style="font-weight: 400;">Are handstands good for you?</span></a></li>
+<li style="font-weight: 400;"><a href="#benefits_of_handstand"><span style="font-weight: 400;">Do handstands build muscle?</span></a></li>
+<li style="font-weight: 400;"><a href="#secret_of_handstand"><span style="font-weight: 400;">The secret to performing a handstand.</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_warm_up"><span style="font-weight: 400;">Handstand Progression Warm-Up Routine (DON’T SKIP)</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_1"><span style="font-weight: 400;">Level 1 Handstand Progression: Quadruped Rocking</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_2"><span style="font-weight: 400;">Level 2 Handstand Progression: Hollow Body</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_3"><span style="font-weight: 400;">Level 3 Handstand Progression: Crow Pose</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_4"><span style="font-weight: 400;">Level 4 Handstand Progression: Wall Walk</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_5"><span style="font-weight: 400;">Level 5 Handstand Progression: How to Bail out of a Handstand</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_progression_level_6"><span style="font-weight: 400;">Level 6 Handstand Progression: How to Do a Handstand</span></a></li>
+<li style="font-weight: 400;"><a href="#handstand_tips_and_tricks"><span style="font-weight: 400;">4 Tips and tricks for doing handstands.</span></a></li>
+</ul>
+<p><b>Alright, brace yourself to get flipped-turned upside down</b><span style="font-weight: 400;">.</span></p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/#more-1342745" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-11482" class="post-11482 post type-post status-publish format-standard hentry category-exercises category-how-to wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/warm-up/" title="Permalink to Warm Up Properly: The 15 Best Dynamic Warm Up Exercises &#038; Routines To Prevent Injury" rel="bookmark">Warm Up Properly: The 15 Best Dynamic Warm Up Exercises &#038; Routines To Prevent Injury</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt width="713" height="260" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-713x260.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-300x109.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-768x280.png 768w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-600x219.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout.png 949w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-713x260.png" class="aligncenter size-large wp-image-3576755 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-3576755" src="https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-713x260.png" alt="" width="713" height="260" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-713x260.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-300x109.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-768x280.png 768w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout-600x219.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/02/storm-troopers-warm-up-before-workout.png 949w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><strong>Today, you&#8217;re gonna learn the importance of warming up, and how to warm up with specific video routines&#8230;because I&#8217;m a nice person.</strong></p>
+<p>This is so critical for training safely that whenever we design a workout for our coaching clients, it always starts with a proper warm-up. So I&#8217;m excited to share these warm-up tips and tricks with you too.</p>
+<a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+Get in shape safely and actually reach your goals! Learn more about our Online Coaching Program </button>
+</a>
+<p><strong>In this guide, we&#8217;ll cover the following (click to go to that section):</strong></p>
+<ul>
+<li><a href="#dynamic_warm_up">Stretch before working out? No. Warm-up instead.</a></li>
+<li><a href="#beginner_warm_up">Beginner Dynamic Warm-up Exercises and Video</a></li>
+<li><a href="#warm_up_advanced">3 Advanced Dynamic Warm-up Exercises and Videos</a></li>
+<li><a href="#best_warm_up_exercises">15 Quick Dynamic Warm-Up Exercises to Prevent Injury</a></li>
+</ul>
+<p>This stuff is so important because getting injured sucks.</p>
+<p>And <span style="text-decoration: underline;">every single day</span> I watch people wander into the gym, immediately lie down on a bench, and start cranking out their workout with a heavyweight within seconds.</p>
+<p>This makes me weep for humanity.</p>
+<p>These people are just WAITING to get injured. They&#8217;re essentially playing with dynamite (also not recommended).</p>
+<p><img decoding="async" loading="lazy" alt="Playing with dynamite is not recommended" width="408" height="228" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/02/playingwithdynamite.gif" class="aligncenter wp-image-3576678 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3576678" src="https://www.nerdfitness.com/wp-content/uploads/2019/02/playingwithdynamite.gif" alt="Playing with dynamite is not recommended" width="408" height="228" /></noscript></p>
+<p><em><span style="font-weight: 400;">So you&#8217;re reading the right article.</span></em></p>
+<p>Also, if you&#8217;re interested in a program that tells you exactly how to warm up and work out, you may like our new app!</p>
+<p><strong>Nerd Fitness Journey will set you on an adventure that will tell you exactly when to workout, when to warm up, and when you should rest. No guesswork needed. </strong></p>
+<p>You can sign-up for a free trial right here:</p>
+<div class="nf-in-post-signup-leadin"></div> <div class="nf-in-post-signup" style="background: none; border: none;">
+<a target="_blank" href="https://click.nerdfitness.com/8BxQ/a0e2674e">
+<img style="margin-left:auto; margin-right: auto;" data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg" class="desktop-show mobile-hide lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img  style="margin-left:auto; margin-right: auto;"  data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg" class="desktop-show mobile-hide lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="desktop-show mobile-hide" style="margin-left:auto; margin-right: auto;" src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Desktop_V1A.jpg"></noscript></noscript>
+<img data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg" class="desktop-hide mobile-show lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   data-src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg" class="desktop-hide mobile-show lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="desktop-hide mobile-show" src="https://www.nerdfitness.com/wp-content/uploads/2020/11/NF_Journey_BodyweightWorkout_Mobile_v1A.jpg"></noscript></noscript>
+</a>
+</div>
+<p><em></p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/warm-up/#more-11482" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+<p></em></p>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3627340" class="post-3627340 post type-post status-publish format-standard hentry category-exercises category-general category-workouts wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/the-7-best-at-home-workout-routines-the-ultimate-guide-for-training-without-a-gym/" title="Permalink to The 8 Best At-Home Workout Routines: The Ultimate Guide for Training Without a Gym" rel="bookmark">The 8 Best At-Home Workout Routines: The Ultimate Guide for Training Without a Gym</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Wonder Woman vacuuming at home " width="788" height="361" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-300x138.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-713x327.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-768x352.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-1536x704.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-600x275.jpg 600w" sizes="(max-width: 788px) 100vw, 788px" data-src="https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman.jpg" class="aligncenter wp-image-3977627 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3977627" src="https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman.jpg" alt="Wonder Woman vacuuming at home " width="788" height="361" srcset="https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman.jpg 1920w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-300x138.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-713x327.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-768x352.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-1536x704.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2022/01/lego-wonder-woman-600x275.jpg 600w" sizes="(max-width: 788px) 100vw, 788px" /></noscript></p>
+<p><b>So you want to start working out, but you don’t want to leave the house?</b></p>
+<p><span style="font-weight: 400;">No problem! </span></p>
+<p>Our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">online coaches</a> specialize in helping people get fit from home.</p>
+<p><strong>If you&#8217;re in a hurry, sign up for our <span style="text-decoration: underline;">free weekly newsletter</span> and we&#8217;ll send you PDFs of our &#8220;Work Out at Home&#8221; guides!</strong></p>
+<p><b> <a target="_blank" href="https://www.nerdfitness.com/at-home-newsletter/">
+<button class="cta-button red">
+Download our Free Home Workout Guides! </button>
+</a>
+</b></p>
+<p><b>Let’s go over the <span style="text-decoration: underline;">8 Best At-Home Workouts</span> so you can start training today: no gym or equipment required!</b></p>
+<ul>
+<li style="font-weight: 400;"><a href="#at_home_warm_up"><span style="font-weight: 400;">A note on warming up and cooling down</span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_1"><span style="font-weight: 400;">Home Workout #1: Beginner Bodyweight (Start Here)</span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_2"><span style="font-weight: 400;">Home Workout #2: Advanced Bodyweight </span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_3"><span style="font-weight: 400;">Home Workout #3: The 20-Min Hotel Routine</span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_4"><span style="font-weight: 400;">Home Workout #4: High-Intensity Interval Training </span></a></li>
+<li><a href="#at_home_workout_5"><span style="font-weight: 400;">Home Workout #5: Attack of the Angry Birds</span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_6"><span style="font-weight: 400;">Home Workout #6: Train like Batman</span></a></li>
+<li style="font-weight: 400;"><a href="#at_home_workout_7"><span style="font-weight: 400;">Home Workout #7: The PLP Progression</span></a></li>
+<li><a href="#at_home_workout_8"><span style="font-weight: 400;">Home Workout #8: The Star Wars Workout!</span></a></li>
+<li style="font-weight: 400;"><a href="#bonus_workout"><span style="font-weight: 400;">Bonus No-Equipment Workout: The Playground Circuit</span></a></li>
+<li><a href="#build_muslce_lose_weight_from_home">Can home workouts build muscle or help with weight loss?</a></li>
+<li><a href="#build_your_own_workout">How to build your own at-home workout</a></li>
+</ul>
+<p>Let&#8217;s jump right in!</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/the-7-best-at-home-workout-routines-the-ultimate-guide-for-training-without-a-gym/#more-3627340" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-4501" class="post-4501 post type-post status-publish format-standard hentry category-how-to category-workouts tag-best-fitness tag-exercise tag-starting-out tag-training tag-weight-loss tag-workout wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/how-to-build-your-own-workout-routine/" title="Permalink to How To Build Your Own Workout Routine: Plans, Schedules, and Exercises" rel="bookmark">How To Build Your Own Workout Routine: Plans, Schedules, and Exercises</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+&#8226 Reviewed By:
+<a href="https://www.nerdfitness.com/blog/author/mikerebold/">Mike Rebold PhD, CSCS </a>
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="How do you become like this perfect man? Building your own workout will help!" width="713" height="298" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-713x298.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-300x125.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-600x251.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci.png 727w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-713x298.png" class="aligncenter size-large wp-image-3580848 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-large wp-image-3580848" src="https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-713x298.png" alt="How do you become like this perfect man? Building your own workout will help!" width="713" height="298" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-713x298.png 713w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-300x125.png 300w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci-600x251.png 600w, https://www.nerdfitness.com/wp-content/uploads/2019/01/da-vinci.png 727w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><strong>I get multiple emails and messages per day asking:</strong></p>
+<p><em>&#8220;Steve, what should I do for a workout?&#8221;</em></p>
+<p>Well, partner, today is your lucky day.</p>
+<p><strong>I&#8217;m gonna help build you a custom workout program, step-by-step! </strong></p>
+<p>After all, a workout <em>should</em> be developed around a person’s age, goals, nutritional strategy, free time, etc.</p>
+<p><span style="font-weight: 400;">Not only that, but <span style="text-decoration: underline;">it&#8217;s easy to overcomplicate this process</span> &#8211; there are an infinite number of exercises, sets, reps, and programs to choose from.</span></p>
+<p><b>Now, if you&#8217;re somebody that wants to skip all of that, and JUST want to be told what exactly to do: </b></p>
+<p><b> </b><span style="font-weight: 400;">We build customized workouts for our <strong><a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients</a> </strong>and would love to have you. We </span><span style="font-weight: 400;">get to know your story and struggles, your goals, and your lifestyle, and develop a workout plan that fits your schedule.</span></p>
+<p><a href="https://www.nerdfitness.com/coaching-overview-page/"><img decoding="async" loading="lazy" alt="Your coach can build a workout for you!" width="713" height="403" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-713x403.png 713w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-300x170.png 300w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-768x434.png 768w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-600x339.png 600w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan.png 900w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-713x403.png" class="aligncenter wp-image-2932709 size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-2932709 size-large" src="https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-713x403.png" alt="Your coach can build a workout for you!" width="713" height="403" srcset="https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-713x403.png 713w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-300x170.png 300w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-768x434.png 768w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan-600x339.png 600w, https://www.nerdfitness.com/wp-content/uploads/2017/12/plan.png 900w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></a></p>
+<p style="text-align: center;"> <a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+Want a customized workout plan you’ll ACTUALLY do? Learn more: </button>
+</a>
+</p>
+<p><b>Now, if you’re more of a “figure this stuff out on my own” kind of person – we’re going to dig into how to build your own workout plan today!</b></p>
+<p>We’ve <i>also</i><span style="font-weight: 400;"> created a free resource for folks who want to build their own workout but would love some more specific direction and instruction.</span></p>
+<p>You can download our free guide, <i><span style="text-decoration: underline;"><strong>Strength Training 101: Everything You Need to Know</strong></span>,</i> which covers all of this stuff in a single guide:</p>
+<div class="nf-in-post-signup-leadin"></div><div class="nf-in-post-signup one-column split yellow-cta strength-101 shortcode-form-13 "><div class="nf-signup-intro"><div><span style="font-weight:700"><span class="pre">Download our comprehensive guide</span> <span class="extra">STRENGTH TRAINING 101!</span></span></div><div class="nf-signup-benefit"><ul>
+<li>Everything you need to know about getting strong.</li>
+<li>Workout routines for bodyweight AND weight training.</li>
+<li>How to find the right gym and train properly in one.</li>
+</ul></div></div><div class="nf-signup-form"><img class="asset-image" src><div><form accept-charset="UTF-8" action="https://app.convertkit.com/forms/3351751/subscriptions" data-sv-form="3351751" data-uid="7a45ac8ba2" data-version="5" class="infusion-form" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;redirect&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;https://www.nerdfitness.com/one-last-step/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" method="POST" id="inf_form_12c97c001a652ac813119a536e4fb4a4"><ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul><input name="inf_form_xid" type="hidden" value="12c97c001a652ac813119a536e4fb4a4" /><input name="inf_form_name" type="hidden" value="Plugin Signup" /><input name="infusionsoft_version" type="hidden" value="1.68.0.144" /><input class="infusion-field-input-container" id="inf_field_Email" name="email_address" type="email" required placeholder="Your Email" /><input name="null" type="hidden" value="null" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SiteSignupURL" name="fields[signup_referring_url]" type="text" value="https://www.nerdfitness.com/blog/" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SignupPostID" name="fields[signup_post_id]" type="text" value="4501" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_FormId" name="fields[signup_form_id]" type="text" value="13" /> <input name="inf_custom_CoachingOriginURL" type="hidden" value="https://www.nerdfitness.com/" />
+<input name="inf_custom_CoachingOriginLandingPage" type="hidden" value="https://www.nerdfitness.com/blog/how-to-train-like-a-secret-agent-the-lives-of-james-bond-and-jason-bourne/" />
+<input name="inf_custom_IPAddress" type="hidden" value="243.234.109.190" />
+<input name="inf_custom_CookieLastMedium" type="hidden" value />
+<input name="inf_custom_CookieLastCampaign" type="hidden" value />
+<input name="inf_custom_CookieLastSource" type="hidden" value />
+<input name="inf_custom_CookieLastTerm" type="hidden" value />
+<input name="inf_custom_CookieLastContent" type="hidden" value />
+<input name="inf_custom_CoachingOptinFormFilledDate" type="hidden" value="2023-10-22 22:55:53">
+<input name="inf_custom_infcustomcoachvariation" type="hidden" value>
+<input name="inf_custom_FacebookBrowserId" type="hidden" value="fb.1.1698015082383.1051159166" />
+<input name="inf_custom_FacebookClickId" type="hidden" value />
+<div class="infusion-submit"> <input class="opt-in-submit button infusion-recaptcha" id="recaptcha_12c97c001a652ac813119a536e4fb4a4" type="submit" value=" Get it now" /></div></form></div></div><div class="clearme"></div></div>
+<p><b>OKAY! Are you ready to start building your own routine and want to know how it&#8217;s done? </b></p>
+<p><b>Great! Let’s do this</b><strong>: </strong></p>
+<ul>
+<li style="font-weight: 400;"><a href="#step_1_build_your_own_workout"><span style="font-weight: 400;">Step #1: Determine your “Get in Shape” situation!</span></a></li>
+<li style="font-weight: 400;"><a href="#step_2_build_your_own_workout"><span style="font-weight: 400;">Step #2: &#8220;What exercises should I do to lose weight (or build muscle)?&#8221;</span></a></li>
+<li style="font-weight: 400;"><a href="#step_3_build_your_own_workout"><span style="font-weight: 400;">Step #3: &#8220;How many sets and reps should I do per exercise?&#8221;</span></a></li>
+<li style="font-weight: 400;"><a href="#step_4_build_your_own_workout"><span style="font-weight: 400;">Step #4: &#8220;How long should I wait between sets?&#8221;</span></a></li>
+<li style="font-weight: 400;"><a href="#step_5_build_your_own_workout"><span style="font-weight: 400;">Step #5: &#8220;How much weight should I lift?&#8221;</span></a></li>
+<li style="font-weight: 400;"><a href="#step_6_build_your_own_workout"><span style="font-weight: 400;">Step #6: &#8220;</span><span style="font-weight: 400;">How long should I exercise for?</span></a>&#8220;</li>
+<li style="font-weight: 400;"><a href="#step_7_build_your_own_workout"><span style="font-weight: 400;">Step #7: How to create supersets and circuit training workouts.</span></a></li>
+<li style="font-weight: 400;"><a href="#step_8_build_your_own_workout"><span style="font-weight: 400;">Step #8: &#8220;How many days per week should I train?&#8221;</span></a></li>
+<li style="font-weight: 400;"><a href="#step_9_build_your_own_workout"><span style="font-weight: 400;">Step #9: How to record your workouts and progress.</span></a></li>
+<li><a href="#build_a_workout_for_me">&#8220;Steve, just BUILD a workout for me!&#8221;</a></li>
+</ul>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/how-to-build-your-own-workout-routine/#more-4501" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-3957" class="post-3957 post type-post status-publish format-standard has-post-thumbnail hentry category-bestof category-workouts tag-best-fitness tag-body-weight tag-exercise tag-no-gym tag-training tag-workout wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/" title="Permalink to The Beginner Bodyweight Workout: 20-Minute Routine To Do At Home or Anywhere!" rel="bookmark">The Beginner Bodyweight Workout: 20-Minute Routine To Do At Home or Anywhere!</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href><img width="2048" height="596" alt="The Beginner Bodyweight Workout: 20-Minute Routine To Do At Home or Anywhere!" decoding="async" loading="lazy" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda.jpg 2048w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-300x87.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-713x207.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-768x224.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-1536x447.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-600x175.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" data-src="https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda.jpg" class="post_image wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="2048" height="596" src="https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda.jpg" class="post_image wp-post-image" alt="The Beginner Bodyweight Workout: 20-Minute Routine To Do At Home or Anywhere!" decoding="async" loading="lazy" srcset="https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda.jpg 2048w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-300x87.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-713x207.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-768x224.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-1536x447.jpg 1536w, https://www.nerdfitness.com/wp-content/uploads/2021/01/lego-yoda-600x175.jpg 600w" sizes="(max-width: 2048px) 100vw, 2048px" /></noscript></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><strong>So you want to lose weight and get in shape, but don&#8217;t want to leave your house?</strong></p>
+<p>Well, as your fitness Yoda, I will teach you a great bodyweight workout routine that you can do ANYWHERE: <em>In your living room, at a park, or in a galaxy far, far away&#8230; </em></p>
+<p><strong>These are the types of workouts we build for our busy <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients</a>, and I&#8217;m pumped to share it with you today! </strong></p>
+<p style="text-align: center;"> <a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button red">
+Let us build a bodyweight training program for you! </button>
+</a>
+</p>
+<p><strong>Let&#8217;s dig into the different parts of this workout and get to the action:</strong></p>
+<ul>
+<li><a href="#why_bodyweight_workout" rel="noopener">Can You Build Muscle Mass With Bodyweight Exercises?</a></li>
+<li><a href="#bodyweight_workout_video" rel="noopener">Beginner Bodyweight Workout Video (and Sheet)</a>.</li>
+<li><a href="#best_beginner_bodyweight_exercises">12 Best Bodyweight Exercises for Beginners</a></li>
+<li style="font-weight: 400;"><a href="#bodyweight_workout_weight_loss">Is Bodyweight Training Effective for Weight Loss?</a></li>
+<li style="font-weight: 400;"><a href="#bodyweight_workout_pdf" rel="noopener">What&#8217;s Next After the Beginner Bodyweight Workout?</a></li>
+</ul>
+<p>Make sure you also download the <strong>Beginner Bodyweight Workout PDF</strong> so you can track your progress and level up at home.</p>
+<p><strong>I&#8217;ll send it on over when you join the <span style="text-decoration: underline;">Nerd Fitness Rebellion</span> in the box below:</strong></p>
+<div class="nf-in-post-signup-leadin"></div><div class="nf-in-post-signup one-column split yellow-cta bodyweight shortcode-form-15 "><div class="nf-signup-intro"><div><span style="font-weight:700">Grab Your Beginner Bodyweight Routine Worksheet. No Gym Required!</span></div><div class="nf-signup-benefit"><ul>
+<li>Complete this workout at home, no equipment required</li>
+<li>Avoid the common mistakes everybody makes when doing bodyweight exercises</li>
+<li>Learn how to finally get your first pull-up</li>
+</ul></div></div><div class="nf-signup-form"><img class="asset-image" src><div><form accept-charset="UTF-8" action="https://app.convertkit.com/forms/3351751/subscriptions" data-sv-form="3351751" data-uid="7a45ac8ba2" data-version="5" class="infusion-form" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;redirect&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;https://www.nerdfitness.com/one-last-step/&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" method="POST" id="inf_form_12c97c001a652ac813119a536e4fb4a4"><ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul><input name="inf_form_xid" type="hidden" value="12c97c001a652ac813119a536e4fb4a4" /><input name="inf_form_name" type="hidden" value="Plugin Signup" /><input name="infusionsoft_version" type="hidden" value="1.68.0.144" /><input class="infusion-field-input-container" id="inf_field_Email" name="email_address" type="email" required placeholder="Your Email" /><input name="null" type="hidden" value="null" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SiteSignupURL" name="fields[signup_referring_url]" type="text" value="https://www.nerdfitness.com/blog/" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_SignupPostID" name="fields[signup_post_id]" type="text" value="3957" /><input style="display:none;" class="infusion-field-input-container" id="inf_custom_FormId" name="fields[signup_form_id]" type="text" value="15" /> <input name="inf_custom_CoachingOriginURL" type="hidden" value="https://www.nerdfitness.com/" />
+<input name="inf_custom_CoachingOriginLandingPage" type="hidden" value="https://www.nerdfitness.com/blog/how-to-train-like-a-secret-agent-the-lives-of-james-bond-and-jason-bourne/" />
+<input name="inf_custom_IPAddress" type="hidden" value="243.234.109.190" />
+<input name="inf_custom_CookieLastMedium" type="hidden" value />
+<input name="inf_custom_CookieLastCampaign" type="hidden" value />
+<input name="inf_custom_CookieLastSource" type="hidden" value />
+<input name="inf_custom_CookieLastTerm" type="hidden" value />
+<input name="inf_custom_CookieLastContent" type="hidden" value />
+<input name="inf_custom_CoachingOptinFormFilledDate" type="hidden" value="2023-10-22 22:55:53">
+<input name="inf_custom_infcustomcoachvariation" type="hidden" value>
+<input name="inf_custom_FacebookBrowserId" type="hidden" value="fb.1.1698015082383.1051159166" />
+<input name="inf_custom_FacebookClickId" type="hidden" value />
+<div class="infusion-submit"> <input class="opt-in-submit button infusion-recaptcha" id="recaptcha_12c97c001a652ac813119a536e4fb4a4" type="submit" value=" Level Up!" /></div></form></div></div><div class="clearme"></div></div>
+<p>Let&#8217;s jump right in!</p>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/beginner-body-weight-workout-burn-fat-build-muscle/#more-3957" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-19447" class="post-19447 post type-post status-publish format-standard hentry category-bestof category-exercises category-how-to category-strength-and-muscle tag-best-nutrition wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/a-skinny-guys-guide-to-building-muscle-and-bulking-up/" title="Permalink to The Ultimate Skinny Guy&#8217;s Guide to Bulking Up Fast: How to Bulk like the Hulk" rel="bookmark">The Ultimate Skinny Guy&#8217;s Guide to Bulking Up Fast: How to Bulk like the Hulk</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="Hulk knows how many reps and sets to do." width="707" height="319" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk.jpg 707w, https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk-300x135.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk-600x271.jpg 600w" sizes="(max-width: 707px) 100vw, 707px" data-src="https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk.jpg" class="aligncenter size-full wp-image-3571047 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3571047" src="https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk.jpg" alt="Hulk knows how many reps and sets to do." width="707" height="319" srcset="https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk.jpg 707w, https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk-300x135.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2018/12/lego-hulk-600x271.jpg 600w" sizes="(max-width: 707px) 100vw, 707px" /></noscript></p>
+<p><b>Want to go from a skinny guy to building muscle quickly? I got you.</b></p>
+<p><span style="font-weight: 400;">I&#8217;ve spent my entire adult life trying to pack on muscle, and after years and years of </span><span style="font-weight: 400;">trial</span><span style="font-weight: 400;"> and error, I finally cracked the code.</span></p>
+<p><span style="font-weight: 400;">Today, I share that code with you!</span></p>
+<p><strong>This is a topic that is near and dear to me, because I&#8217;ve spent my life devoted to this stuff:</strong></p>
+<p><img decoding="async" loading="lazy" alt="How fast can it take to grow muscle? It took Steve years of trial and error." width="363" height="362" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1.jpg 599w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-150x150.jpg 150w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-300x300.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-100x100.jpg 100w" sizes="(max-width: 363px) 100vw, 363px" data-src="https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1.jpg" class="wp-image-3569640 aligncenter lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="wp-image-3569640 aligncenter" src="https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1.jpg" alt="How fast can it take to grow muscle? It took Steve years of trial and error." width="363" height="362" srcset="https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1.jpg 599w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-150x150.jpg 150w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-300x300.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2013/07/Steve-Before-After-1-1-100x100.jpg 100w" sizes="(max-width: 363px) 100vw, 363px" /></noscript></p>
+<p>These are the exact tactics I&#8217;ve used, and the same strategies we use with our <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients.</a></p>
+<p style="text-align: center;"> <a target href="/coaching-overview-page">
+<button class="cta-button yellow">
+Our coaching program helps people bulk up quickly. Learn how: </button>
+</a>
+</p>
+<p>This free guide is gonna get you started off on the right foot!</p>
+<p><b>Here are the 4 parts we&#8217;ll cover in this ultimate guide:</b></p>
+<p><strong>#1) INTRO:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href="#struggling_as_skinny_guy"><span style="font-weight: 400;">How I bulked up after years of struggling as a skinny guy.</span></a></li>
+</ul>
+<p><strong>#2) NUTRITION:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href="#your_diet"><span style="font-weight: 400;">The most important thing for putting on muscle (your diet).</span></a></li>
+<li style="font-weight: 400;"><a href="#what_to_eat"><span style="font-weight: 400;">What foods should I eat to bulk up?</span></a></li>
+<li><a href="#bulk_up_strategy">What are the best bulk up strategies?</a></li>
+<li style="font-weight: 400;"><a href="#tips_on_eating"><span style="font-weight: 400;">What supplements should I take to bulk up and build muscle?</span></a></li>
+</ul>
+<p><strong>#3) STRENGTH TRAINING:</strong></p>
+<ul>
+<li><a href="#get_stronger"><span style="font-weight: 400;">How to grow bigger muscles (get stronger).</span></a></li>
+<li style="font-weight: 400;"><a href="#skinny_guy_workout_plans"><span style="font-weight: 400;">Skinny Guy Workout Plans for bulking up.</span></a></li>
+<li style="font-weight: 400;"><a href="#bodyweight"><span style="font-weight: 400;">Can bodyweight training help you bulk up?</span></a></li>
+<li><a href="#skinny_fat"><span style="font-weight: 400;">I am skinny fat: should I gain weight or lose weight first?</span></a></li>
+</ul>
+<p><strong>#4) RECOVERY, TIPS AND TRICKS, NEXT STEP:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href="#proper_sleep"><span style="font-weight: 400;">Proper sleep and rest for putting on muscle.</span></a></li>
+<li style="font-weight: 400;"><a href="#FAQ"><span style="font-weight: 400;">FAQ for skinny guys trying to bulk up.</span></a></li>
+<li style="font-weight: 400;"><a href="#more_resources"><span style="font-weight: 400;">More resources for skinny guys looking to bulk up.</span></a></li>
+</ul>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/a-skinny-guys-guide-to-building-muscle-and-bulking-up/#more-19447" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<article id="post-1790215" class="post-1790215 post type-post status-publish format-standard hentry category-general wpautop">
+<header class="entry-header">
+<h1 class="entry-title">
+<a href="https://www.nerdfitness.com/blog/a-beginners-guide-to-the-gym-everything-you-need-to-know/" title="Permalink to 6 Beginner Gym Workouts: How to Work Out in a Gym The Right Way!" rel="bookmark">6 Beginner Gym Workouts: How to Work Out in a Gym The Right Way!</a>
+</h1>
+<div class="post_byline_v2_wrapper">
+<div><img alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img   alt="Steve Kamb" data-src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" class="post_byline_avatar lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="post_byline_avatar" src="https://secure.gravatar.com/avatar/a2cb8bffc28f6bbc0ec208e9fd2a52a8?s=96&d=identicon&r=pg" alt="Steve Kamb"></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></noscript></div>
+<div class="post_byline_v2">
+Written By <a href="https://www.nerdfitness.com/blog/author/Steve/"><span class="vcard author author_name"><span class="fn">Steve Kamb </span></span></a><span class="updated">
+<br/>Last Updated: <time datetime="2023-10-17">October 17, 2023</time></span>
+</div>
+</div>
+
+<a class="byline_image_v2" href></a>
+</header>
+<div class="entry-content">
+<div class="format_text">
+<p><img decoding="async" loading="lazy" alt="These Troopers get to work out in the Death Star's gym. You might have to buy a membership." width="713" height="343" data-srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-713x343.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-300x144.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-768x369.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-600x288.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym.jpg 1024w" sizes="(max-width: 713px) 100vw, 713px" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-713x343.jpg" class="aligncenter wp-image-3584333 size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3584333 size-large" src="https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-713x343.jpg" alt="These Troopers get to work out in the Death Star's gym. You might have to buy a membership." width="713" height="343" srcset="https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-713x343.jpg 713w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-300x144.jpg 300w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-768x369.jpg 768w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym-600x288.jpg 600w, https://www.nerdfitness.com/wp-content/uploads/2019/06/lego-workout-gym.jpg 1024w" sizes="(max-width: 713px) 100vw, 713px" /></noscript></p>
+<p><b>Welcome to the Ultimate Beginner’s Guide to the Gym!</b><span style="font-weight: 400;"> </span></p>
+<p>As part of our <a href="https://www.nerdfitness.com/blog/strength-training-101/" target="_blank" rel="noopener noreferrer">Strength 101 series</a>, this guide will dive deep into everything you need to know about working out properly in a gym.</p>
+<p><span style="font-weight: 400;">By the time you finish reading, you’ll </span><span style="font-weight: 400;"><span style="text-decoration: underline;">never</span> have to wonder “What should I do in the gym?”</span></p>
+<p><span style="font-weight: 400;">Plus, I bet I also make you laugh once or twice with bad jokes and perfect gifs.</span></p>
+<p><img decoding="async" loading="lazy" alt="This Muppet knows strength training will help him gain muscle and lose fat." width="368" height="207" data-src="https://www.nerdfitness.com/wp-content/uploads/2019/04/muppet-strength-training.gif" class="aligncenter wp-image-3581841 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img decoding="async" loading="lazy" class="aligncenter wp-image-3581841" src="https://www.nerdfitness.com/wp-content/uploads/2019/04/muppet-strength-training.gif" alt="This Muppet knows strength training will help him gain muscle and lose fat." width="368" height="207" /></noscript></p>
+<p><strong>We&#8217;ve helped thousands of <a href="https://www.nerdfitness.com/coaching-overview-page/" target="_blank" rel="noopener noreferrer">Online Coaching Clients</a> build confidence and start strength training in the gym, so I worked with our coaches to create today&#8217;s Ultimate Beginner Gym Guide!</strong></p>
+<p style="text-align: center;"> <a target href="https://www.nerdfitness.com/coaching-overview-page/">
+<button class="cta-button yellow">
+Not confident at the gym? Bring a fitness Yoda in your pocket with the Nerd Fitness Coaching app: </button>
+</a>
+</p>
+<p><b>Okay, time to start working out. Let&#8217;s hit the gym and explore the following:</b></p>
+<ul>
+<li style="font-weight: 400;"><a href="#scared_of_gym"><span style="font-weight: 400;">Scared to work out in a gym? Read this first.</span></a></li>
+<li style="font-weight: 400;"><a href="#how_often_should_i_go_to_gym"><span style="font-weight: 400;">How often should I go to the gym?</span></a></li>
+<li style="font-weight: 400;"><a href="#first_day_of_gym"><span style="font-weight: 400;">Level 1 Gym Workout: Your first day in the gym.</span></a></li>
+<li style="font-weight: 400;"><a href="#level_2_gym_workout"><span style="font-weight: 400;">Level 2 Gym Workout: Cardio Cadet.</span></a></li>
+<li style="font-weight: 400;"><a href="#level_3_gym_workout"><span style="font-weight: 400;">Level 3 Gym Workout: Bodyweight Brigade.</span></a></li>
+<li style="font-weight: 400;"><a href="#level_4_gym_workout"><span style="font-weight: 400;">Level 4 Gym Workout: Dumbbell Division.</span></a></li>
+<li style="font-weight: 400;"><a href="#level_5_gym_workout"><span style="font-weight: 400;">Level 5 Gym Workout: Barbell Battalion.</span></a></li>
+<li style="font-weight: 400;"><a href="#level_6_gym_workout"><span style="font-weight: 400;">Level 6 Gym Workout: Gym Class Hero.</span></a></li>
+<li style="font-weight: 400;"><a href="#gym_etiquette"><span style="font-weight: 400;">Gym Etiquette: Tips and Tricks.</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="#gym_routine">How to build the gym habit</a>.</span></li>
+</ul>
+<div class="keep-reading"> <a href="https://www.nerdfitness.com/blog/a-beginners-guide-to-the-gym-everything-you-need-to-know/#more-1790215" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></div>
+</div>
+</div>
+<footer>
+</footer>
+</article>
+<div class="post_nav">
+<a href="https://www.nerdfitness.com/blog/page/2/">Previous</a> <a href="https://www.nerdfitness.com/archives/" title="View the Archive">View Archive</a>
+</div>
+</div> 
+</div>
+</div>
+<div id="secondary" class="sidebar widget-area" role="complementary">
+<div class="sidebar-content">
+<li id="text-17" class="widget widget_text"> <div class="textwidget"><img alt="Join the Rebellion. You're your only hope." data-src="/wp-content/uploads/2013/06/sidebar-subscriber_header.gif" class="sidebar_subscriber_header lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="sidebar_subscriber_header" src="/wp-content/uploads/2013/06/sidebar-subscriber_header.gif" alt="Join the Rebellion. You're your only hope."></noscript>
+<div class="sidebar_subscriber_body">
+<img alt="Get healthy without a gym. Join the Nerd Fitness Rebellion" data-src="/wp-content/uploads/2013/06/sidebar-subscriber_body2.gif" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/sidebar-subscriber_body2.gif" alt="Get healthy without a gym. Join the Nerd Fitness Rebellion"></noscript>
+<div class="centered_form">
+<script async data-uid="b1b8856cdf" src="https://nerdfitness.ck.page/b1b8856cdf/index.js"></script>
+</div>
+</div>
+</div>
+</li><li id="text-19" class="widget widget_text"><h3 class="widgettitle">Classic Posts</h3> <div class="textwidget"><a href="/blog/how-to-build-your-own-workout-routine/" class="classic-post"><img alt="How To Build Your Own Workout Routine" data-src="/wp-content/uploads/2018/08/buildworkout.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2018/08/buildworkout.jpg" alt="How To Build Your Own Workout Routine" class="classic-post"></noscript></a><a href="/blog/2009/12/09/beginner-body-weight-workout-burn-fat-build-muscle/" class="classic-post"><img alt="Beginner Body Weight Workout: Burn Fat, Build Muscle" data-src="/wp-content/uploads/2013/06/pop-bodyworkout.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/pop-bodyworkout.jpg" alt="Beginner Body Weight Workout: Burn Fat, Build Muscle" class="classic-post"></noscript></a><a href="/blog/2010/10/04/the-beginners-guide-to-the-paleo-diet/" class="classic-post"><img alt="The Beginner’s Guide to the Paleo Diet" data-src="/wp-content/uploads/2013/06/pop-paleo.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/pop-paleo.jpg" alt="The Beginner’s Guide to the Paleo Diet" class="classic-post"></noscript></a>
+<a href="/blog/2011/07/21/meet-staci-your-new-powerlifting-super-hero/" class="classic-post"><img alt="Meet Staci: Your New Powerlifting Super Hero" data-src="/wp-content/uploads/2013/06/pop-staci.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/pop-staci.jpg" alt="Meet Staci: Your New Powerlifting Super Hero" class="classic-post"></noscript></a>
+<a href="/blog/2012/07/02/body-fat-percentage/" class="classic-post"><img alt="Everything You Need to Know About Body Fat Percentage" data-src="/wp-content/uploads/2013/06/pop-bodyfat.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/pop-bodyfat.jpg" alt="Everything You Need to Know About Body Fat Percentage" class="classic-post"></noscript></a>
+<a href="/blog/2012/01/18/10-months-128-pounds-lost/" class="classic-post"><img alt="The Best Transformation I’ve Ever Seen." data-src="/wp-content/uploads/2013/06/pop-joe.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2013/06/pop-joe.jpg" alt="The Best Transformation I’ve Ever Seen." class="classic-post"></noscript></a>
+<a href="/blog/the-beginners-guide-to-the-keto-diet-or-ketogenic-diet/" class="classic-post"><img alt="The Beginner’s Guide to the Keto Diet" data-src="/wp-content/uploads/2018/08/keto.jpg" class="classic-post lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="/wp-content/uploads/2018/08/keto.jpg" alt="The Beginner’s Guide to the Keto Diet" class="classic-post"></noscript></a>
+</div>
+</li> </div>
+</div>
+</div> 
+</article>
+<footer class="bg-black py-5">
+<div class="container">
+<div class="row g-0 justify-content-between">
+<div class="col-lg-5">
+<div class="mb-4">
+<img data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" class="logo-sizing lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" class="logo-sizing lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="logo-sizing" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/logo-nerd.png" /></noscript></noscript>
+</div>
+<p class="text-14 text-silver ff-tr">Nerd Fitness helps desk jockeys, nerds, and average Joes level up their lives. There’s a lot of B.S. out there about fitness. We’re working to put a stop to it.
+</p>
+<div class="d-flex mb-5">
+<img alt data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/footer-img.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/footer-img.png" alt=""></noscript>
+<div class="d-flex align-items-center ms-3">
+<img alt data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/footer-text.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/footer-text.png" alt=""></noscript>
+</div>
+</div>
+</div>
+<div class="col-lg-6 d-lg-flex row mx-1 mx-lg-0">
+<div class="col-6 mb-3 mb-lg-0">
+<div class="mb-2">
+<a href="/" class="link-footer  text-18">Home</a>
+</div>
+<div class="mb-2">
+<a href="/login/" class="link-footer  text-18">Prime Login</a>
+</div>
+<div class="mb-2">
+<a href="/about-2/" class="link-footer  text-18">Welcome Home</a>
+</div>
+<div class="mb-2">
+<a href="/blog/" class="link-footer  text-18">Articles</a>
+</div>
+<div class="mb-2">
+<a href="https://rebellion.nerdfitness.com/" class="link-footer  text-18">Community</a>
+</div>
+</div>
+<div class="col-6 ps-4 ps-lg-0">
+<div class="mb-2">
+<a href="/search/" class="link-footer  text-18">Search</a>
+</div>
+<div class="mb-2">
+<a href="/archives/" class="link-footer  text-18">Archives</a>
+</div>
+<div class="mb-2">
+<a href="/contact-steve/" class="link-footer  text-18">Contact</a>
+</div>
+</div>
+<div class="col-12">
+<div class="row">
+<div class="col">
+<a href="https://www.facebook.com/NerdFitness/" target="_blank">
+<img width="64" height="64" alt data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/f_logo_RGB-Blue_58.png" class="mx-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/f_logo_RGB-Blue_58.png" class="mx-2" width="64" height="64" alt=""></noscript>
+</a>
+</div>
+<div class="col">
+<a href="https://www.youtube.com/user/nerdfitness" target="_blank">
+<img alt data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/youtube_social_circle_red.png" class="mx-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/youtube_social_circle_red.png" class="mx-2" alt=""></noscript>
+</a>
+</div>
+<div class="col">
+<a href="https://instagram.com/nerd_fitness?igshid=YmMyMTA2M2Y=" target="_blank">
+<img width="64" height="64" alt data-src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/instagram64.png" class="mx-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/images/gpd-homepage/instagram64.png" class="mx-2" width="64" height="64" alt=""></noscript>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row g-0 justify-content-between">
+<div class="col-lg-4 d-flex justify-content-beetwen">
+<p class="text-dark-silver text-10">*The men and women above are exceptional examples from our community and do not guarantee individual success. Your experience and results may vary.
+</p>
+</div>
+<div class="col-lg-6">
+<p class="text-dark-silver text-14">© 2023 Nerd Fitness. All Rights Reserved. <a href="//www.nerdfitness.com/terms-and-conditions/" class="link-footer">Terms and Conditions</a> | <a href="//www.nerdfitness.com/privacy-policy/" class="link-footer">Privacy Policy</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<link rel="stylesheet" id="nfab-styles-css" href="https://www.nerdfitness.com/wp-content/plugins/nf-announcement-bar/nf-announcement.css?ver=8.0.5" type="text/css" media="all" />
+<link rel="stylesheet" id="footenote_css-css" href="https://www.nerdfitness.com/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.css?ver=4.7.6" type="text/css" media="all" />
+<link rel="stylesheet" id="nf-sf-css-2-css" href="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/css/cta-only.css?ver=6.8.5" type="text/css" media="all" />
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.7.2" id="selectWoo-js"></script>
+<script type="text/javascript" id="wc-memberships-blocks-common-js-extra">
+/* <![CDATA[ */
+var wc_memberships_blocks_common = {"keywords":{"email":"Email","phone":"Phone","plan":"Plan","address":"Address","search_not_found":"We didn\u2019t find any members. Please try a different search or check for typos.","results_not_found":"No records found..."},"ajaxUrl":"https:\/\/www.nerdfitness.com\/wp-admin\/admin-ajax.php","restUrl":"https:\/\/www.nerdfitness.com\/wp-json\/","restNonce":"d6ff1ff778"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/woocommerce-memberships/assets/js/frontend/wc-memberships-blocks-common.min.js?ver=1.24.0" id="wc-memberships-blocks-common-js"></script>
+<script type="text/javascript" id="convertkit-broadcasts-js-extra">
+/* <![CDATA[ */
+var convertkit_broadcasts = {"ajax_url":"https:\/\/www.nerdfitness.com\/wp-admin\/admin-ajax.php","action":"convertkit_broadcasts_render","debug":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/convertkit//resources/frontend/js/broadcasts.js?ver=1.9.7.7" id="convertkit-broadcasts-js"></script>
+<script type="text/javascript" id="convertkit-js-js-extra">
+/* <![CDATA[ */
+var convertkit = {"ajaxurl":"https:\/\/www.nerdfitness.com\/wp-admin\/admin-ajax.php","debug":"","nonce":"397877c41b","subscriber_id":"0","tag":"","post_id":"1846079"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/convertkit/resources/frontend/js/convertkit.js?ver=1.9.7.7" id="convertkit-js-js"></script>
+<script type="text/javascript" id="106a6c241-js-extra">
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https:\/\/www.nerdfitness.com\/wp-admin\/admin-ajax.php","nonce":"5331448de1","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1698015353" id="106a6c241-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-before">
+window.lazySizesConfig = window.lazySizesConfig || {};
+
+window.lazySizesConfig.lazyClass    = 'lazyload';
+window.lazySizesConfig.loadingClass = 'lazyloading';
+window.lazySizesConfig.loadedClass  = 'lazyloaded';
+
+lazySizesConfig.loadMode = 1;
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.2.3" id="smush-lazy-load-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-after">
+lazySizes.init();
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/js/modernizr-2.6.2.min.js?ver=1.0.2" id="modernizr-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/js/hide-checkout-coupon.js?ver=8.1.4" id="checkout-hide-coupon-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/nf-announcement-bar/library/js-cookie-latest/src/js.cookie.js?ver=6.1.4" id="js-cookie-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/js/set-query-param-cookies.js?ver=8.3.2" id="query-param-cookies-js"></script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/themes/NerdFitness/library/js/front.js?ver=1.0.2" id="nerdfitness-front-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js?ver=5.0.2" id="gpd-bootstrap-js"></script>
+<script type="text/javascript" src="https://kit.fontawesome.com/33aba682d0.js" id="font-awesome-js"></script>
+<script type="text/javascript" id="nfab-scripts-js-extra">
+/* <![CDATA[ */
+var popup_banner_data = {"banner_cookie_id":"nf-oct-23-workshop","popup_cookie_id":"","popup_redirect":"","should_popup_appear":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.nerdfitness.com/wp-content/plugins/nf-announcement-bar/nf-announcement.js?ver=8.0.9" id="nfab-scripts-js"></script>
+<script type="text/javascript" async="true" defer="defer" src="https://tv329.infusionsoft.com/app/webTracking/getTrackingCode?ver=1.0.0" id="ifs-tracking-code-js"></script>
+<script type="text/javascript" async="true" defer="defer" src="https://tv329.infusionsoft.com/app/timezone/timezoneInputJs?xid=12c97c001a652ac813119a536e4fb4a4&#038;ver=1.0.0" id="ifs-timezone-js"></script>
+<script type="text/javascript" async="true" defer="defer" src="https://www.nerdfitness.com/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.js?ver=4.7.6" id="footenote_js-js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81a5c9049a422802","b":1,"version":"2023.10.0","token":"aacae0e24c734c6b9287446eb07184b7"}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "name": "blogit",
+  "version": "1.0.0",
+  "description": "scour for blog headers",
+  "main": "go.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanstapleton4/blogit.git"
+  },
+  "keywords": [
+    "nah"
+  ],
+  "author": "sean stapleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanstapleton4/blogit/issues"
+  },
+  "homepage": "https://github.com/seanstapleton4/blogit#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
