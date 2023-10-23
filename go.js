@@ -11,7 +11,7 @@ async function fetchAndExtract(url) {
 
         const headers = [];
         $('h1.entry-title').each((i, element) => {
-            if (i < 5) {
+            if (i < 3) {
                 const titleText = $(element).text().trim();
                 const href = $(element).find('a').attr('href');
                 headers.push({ title: titleText, href: href });
