@@ -1,51 +1,32 @@
-const rp = require('request-promise');
-const url = "https://www.nerdfitness.com/blog/";
 const fs = require('fs');
 const DOMParser = require('dom-parser');
+const axios = require('axios');
+const cheerio = require('cheerio');
 
-rp(url)
-    .then(function(html) {
-        // yep
-        // console.log(html);
+async function fetchAndExtract(url) {
+    try {
+        // Fetch the web page
+        const response = await axios.get(url);
+        const html = response.data;
 
-        let them = getTextNodesBetweenTags(html, 'entry-title');
+        // Load the HTML content into cheerio
+        const $ = cheerio.load(html);
 
-        fs.writeFile('headers.txt', html, function(err) {
-            if (err) throw err;
-            console.log('Saved!');
+        // Extract content of h1 tags with class 'entry-title'
+        const titles = [];
+        $('h1.entry-title').each((i, element) => {
+            titles.push($(element).text().trim());
         });
 
-        let array = [];
-        for (var i = 0, len = them.length; i < len; ++i) {
-            array.push(them[i].nodeValue);
-        }
-
-
-    })
-    .catch(function(err) {
-        // nope
-        console.log(err);
-        return false;
-    });
-
-    const parser = new DOMParser();
-    function getTextNodesBetweenTags(htmlString, startTagClass) {
-        const doc = parser.parseFromString(htmlString, 'text/html');
-        const h1Nodes = doc.getElementsByTagName('h1');
-        const allTextNodes = [];
-    
-        Array.from(h1Nodes).forEach(h1Node => {
-            // Ensure we're only working with h1 elements that have the specified class
-            if (h1Node.getAttribute('class') === startTagClass) {
-                Array.from(h1Node.childNodes).forEach(childNode => {
-                    if (childNode.nodeType === 3 && !/^\s*$/.test(childNode.textContent)) {
-                        allTextNodes.push(childNode.textContent);
-                    }
-                });
-            }
-        });
-    
-        return allTextNodes;
+        return titles;
+    } catch (error) {
+        console.error("Error fetching the web page:", error);
+        return [];
     }
+}
 
-return false;
+// Example usage:
+const url = 'https://www.nerdfitness.com/blog/';  // Replace with your target URL
+fetchAndExtract(url).then(titles => {
+    console.log(titles);
+});
