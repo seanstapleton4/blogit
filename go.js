@@ -7,7 +7,7 @@ rp(url)
         // yep
         // console.log(html);
 
-
+        let them = getTextNodesBetweenTags(html, 'entry-title');
 
         fs.writeFile('headers.txt', html, function(err) {
             if (err) throw err;
@@ -24,30 +24,30 @@ rp(url)
 
 
 
-function disect(haystack, start, end) {
-    var past = false;
-    var reachedEnd = false;
-    var results = [];
-
-    function getThemFromThat(that) {
-        if(that == start) {
-            past = true;
-        } else if(that == end) {
-            reachedEnd = true;
-        } else if(them.nodeType == 3) {
-            if(past && !reachedEnd && !/^\s*$/.test(them.nodeValue)) {
-                results.push(them);
-            }
-        } else {
-            for (var x = 0, len = them.childNodes.length; x < len; ++x) {
-                getThemFromThat(them.childNodes[x]);
-            }
-        }
+    function getTextNodesBetweenTags(rootNode, startTagClass) {
+        var h1Nodes = Array.from(rootNode.getElementsByClassName(startTagClass));
+        var allTextNodes = [];
+    
+        h1Nodes.forEach(h1Node => {
+            Array.from(h1Node.childNodes).forEach(childNode => {
+                if (childNode.nodeType === 3 && !/^\s*$/.test(childNode.nodeValue)) {
+                    allTextNodes.push(childNode);
+                }
+            });
+        });
+    
+        return allTextNodes;
+    }
+    
+    // Example usage:
+    var textNodes = getTextNodesBetweenTags(rootNode, 'entry-title');
+    
+    let array = [];
+    for (var i = 0, len = textNodes.length; i < len; ++i) {
+        array.push(textNodes[i].nodeValue);
     }
 
-    getThemFromThat(haystack);
-    return results;
+    console.log(array);
 
-}
 
 return false;
