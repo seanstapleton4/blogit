@@ -1297,6 +1297,6 @@ var popup_banner_data = {"banner_cookie_id":"nf-oct-23-workshop","popup_cookie_i
 <script type="text/javascript" async="true" defer="defer" src="https://tv329.infusionsoft.com/app/webTracking/getTrackingCode?ver=1.0.0" id="ifs-tracking-code-js"></script>
 <script type="text/javascript" async="true" defer="defer" src="https://tv329.infusionsoft.com/app/timezone/timezoneInputJs?xid=12c97c001a652ac813119a536e4fb4a4&#038;ver=1.0.0" id="ifs-timezone-js"></script>
 <script type="text/javascript" async="true" defer="defer" src="https://www.nerdfitness.com/wp-content/plugins/jquery-hover-footnotes/footnote-voodoo.js?ver=4.7.6" id="footenote_js-js"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81a5c9049a422802","b":1,"version":"2023.10.0","token":"aacae0e24c734c6b9287446eb07184b7"}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81a5ec0a2efb6828","b":1,"version":"2023.10.0","token":"aacae0e24c734c6b9287446eb07184b7"}' crossorigin="anonymous"></script>
 </body>
 </html>

@@ -1,6 +1,7 @@
 const rp = require('request-promise');
 const url = "https://www.nerdfitness.com/blog/";
 const fs = require('fs');
+const DOMParser = require('dom-parser');
 
 rp(url)
     .then(function(html) {
@@ -14,6 +15,11 @@ rp(url)
             console.log('Saved!');
         });
 
+        let array = [];
+        for (var i = 0, len = them.length; i < len; ++i) {
+            array.push(them[i].nodeValue);
+        }
+
 
     })
     .catch(function(err) {
@@ -22,32 +28,24 @@ rp(url)
         return false;
     });
 
-
-
-    function getTextNodesBetweenTags(rootNode, startTagClass) {
-        var h1Nodes = Array.from(rootNode.getElementsByClassName(startTagClass));
-        var allTextNodes = [];
+    const parser = new DOMParser();
+    function getTextNodesBetweenTags(htmlString, startTagClass) {
+        const doc = parser.parseFromString(htmlString, 'text/html');
+        const h1Nodes = doc.getElementsByTagName('h1');
+        const allTextNodes = [];
     
-        h1Nodes.forEach(h1Node => {
-            Array.from(h1Node.childNodes).forEach(childNode => {
-                if (childNode.nodeType === 3 && !/^\s*$/.test(childNode.nodeValue)) {
-                    allTextNodes.push(childNode);
-                }
-            });
+        Array.from(h1Nodes).forEach(h1Node => {
+            // Ensure we're only working with h1 elements that have the specified class
+            if (h1Node.getAttribute('class') === startTagClass) {
+                Array.from(h1Node.childNodes).forEach(childNode => {
+                    if (childNode.nodeType === 3 && !/^\s*$/.test(childNode.textContent)) {
+                        allTextNodes.push(childNode.textContent);
+                    }
+                });
+            }
         });
     
         return allTextNodes;
     }
-    
-    // Example usage:
-    var textNodes = getTextNodesBetweenTags(rootNode, 'entry-title');
-    
-    let array = [];
-    for (var i = 0, len = textNodes.length; i < len; ++i) {
-        array.push(textNodes[i].nodeValue);
-    }
-
-    console.log(array);
-
 
 return false;
